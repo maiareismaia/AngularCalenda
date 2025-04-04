@@ -1,0 +1,15 @@
+node_modules/
+dist/
+tmp/
+.tmp/
+.DS_Store
+.nyc_output
+.angular/
+*.log
+**/.DS_Store
+**/.env
+*.md
+**/.angular/cache.json
+.angular/cache-server.json
+.angular/tsconfig.json
+.angular/projects/
